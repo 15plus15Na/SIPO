@@ -1,0 +1,13 @@
+input/modifiedcat.txt
+input/coordination.txt
+input/Building_Area.txt
+input/valueratio.txt
+curves/URML-PreCode.txt
+curves/s1L-LowCode.txt
+curves/s5L-PreCode.txt
+curves/c1L-LowCode.txt
+curves/c3L-PreCode.txt
+curves/c3H-PreCode.txt
+curves/JICA7.txt
+curves/JICA8.txt
+curves/JICA9.txt

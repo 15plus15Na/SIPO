@@ -1,0 +1,13 @@
+input/EQ.txt
+input/coordination.txt
+input/Building_Area.txt
+input/valueratio_az.txt
+curves/JICA1.txt
+curves/JICA2.txt
+curves/JICA3.txt
+curves/JICA4.txt
+curves/JICA5.txt
+curves/JICA6.txt
+curves/JICA7.txt
+curves/JICA8.txt
+curves/JICA9.txt
